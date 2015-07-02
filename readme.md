@@ -1,4 +1,4 @@
-# Stochastic Gradient Descent SVM
+# C++ Stochastic Gradient Descent SVM
 
 This repository is meant to provide an easy-to-use implementation of the SVM classifier using the Stochastic Gradient Descent. This approach followed the one presented in Bottou, Léon. "Large-scale machine learning with stochastic gradient descent." Proceedings of COMPSTAT'2010. Physica-Verlag HD, 2010. 177-186. To run the code you need OpenCV. For a non-dependent OpenCV implementation you just need to substitute the Mats for float arrays as well as remove all OpenCV dependencies (I pretend to do the same later).
 
