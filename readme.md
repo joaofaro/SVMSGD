@@ -22,7 +22,7 @@ After that you can predict the label of your new feature vector:
 
 ## Results
 
-The main advantage when compared to others SVM classifiers (like the one present in OpenCV for example) is the speed performance and the online update of the wheights.
+The main advantage when compared to others SVM classifiers (like the one present in OpenCV, for example) is the speed performance and the online update of the wheights.
 The *out.avi* shows the performance of the presented classifier when used to classify cars using HOG features. As can be seen, the cars are correctly classified. 
 
 ## Questions and suggestions
