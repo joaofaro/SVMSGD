@@ -3,8 +3,7 @@ SVM classifier using the Stochastic Gradient Descent.
 This approach followed the one presented in Bottou, Léon. "Large-scale machine learning with stochastic gradient descent." Proceedings of COMPSTAT'2010. Physica-Verlag HD, 2010. 177-186.
 To run the code you need OpenCV. For a non-dependent OpenCV implementation you just need to substitute the Mats for float arrays as well as remove all OpenCV dependencies (I pretend to do the same later).
 
-Author: Joao Faro
-Contacts: joaopfaro@gmail.com
+Author: Joao Faro (joaopfaro@gmail.com, joao.faro@isr.uc.pt), Joao Henriques (henriques@isr.uc.pt)
 Institute of Systems and Robotics - University of Coimbra
 */
 
