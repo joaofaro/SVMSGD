@@ -4,7 +4,7 @@ This repository is meant to provide an easy-to-use implementation of the SVM cla
 <br />
 This approach followed the one presented in Bottou, Léon. "Large-scale machine learning with stochastic gradient descent." Proceedings of COMPSTAT'2010. Physica-Verlag HD, 2010. 177-186. To run the code you need OpenCV. For a non-dependent OpenCV implementation you just need to substitute the Mats for float arrays as well as remove all OpenCV dependencies (I pretend to do the same later).
 
-News: SVMSGD was submitted to the OpenCV library. I would like to thank to Marina Noskova (marina.noskova@itseez.com) for refactoring the code to be consistent with the existing ml classifiers.
+**News**: SVMSGD was submitted to the OpenCV library. I would like to thank to Marina Noskova (marina.noskova@itseez.com) for refactoring the code to be consistent with the existing ml classifiers.
 
 Original PR: https://github.com/Itseez/opencv/pull/5291
 
