@@ -7,6 +7,7 @@ This approach followed the one presented in Bottou, Léon. "Large-scale machine 
 News: SVMSGD was submitted to the OpenCV library. I would like to thank to Marina Noskova (marina.noskova@itseez.com) for refactoring the code to be consistent with the existing ml classifiers.
 
 Original PR: https://github.com/Itseez/opencv/pull/5291
+
 Refactored PR: https://github.com/Itseez/opencv/pull/6096
 
 ## Code Example
